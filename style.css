@@ -1,0 +1,30 @@
+body{
+  text-align:center;
+  background:linear-gradient;
+  background-repeat:no-repeat;
+}
+img{
+  border-radius:50%;
+  width:100px;
+  text-align:center;
+}
+h1{
+  text-shadow:2px;
+  font-size:20px;
+}
+p{
+  font-size:20px;
+  color:blue
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float:center;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black; 
+}
+#myname{
+    font-family: 'Courgette', cursive;
+}
